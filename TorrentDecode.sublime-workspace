@@ -1,0 +1,354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"word",
+				"word1_dict"
+			],
+			[
+				"Reset",
+				"ResetPasswordForm"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"birthday",
+				"birthdaylist"
+			],
+			[
+				"record",
+				"record_id"
+			],
+			[
+				"birth",
+				"birthday_name"
+			],
+			[
+				"in",
+				"In"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"Birthd",
+				"BirthdayForm"
+			],
+			[
+				"rede",
+				"render_template"
+			],
+			[
+				"logout",
+				"logout_user"
+			],
+			[
+				"birthda",
+				"birthday_date"
+			],
+			[
+				"birthday_",
+				"birthday_name"
+			],
+			[
+				"User",
+				"username"
+			],
+			[
+				"for",
+				"form-group"
+			],
+			[
+				"Login",
+				"login"
+			],
+			[
+				"Passwo",
+				"PasswordField"
+			],
+			[
+				"Pass",
+				"password"
+			],
+			[
+				"Email",
+				"Email"
+			],
+			[
+				"birt",
+				"birthday_list"
+			],
+			[
+				"Inpu",
+				"Inputter-Phone"
+			],
+			[
+				"re",
+				"redis_uri"
+			],
+			[
+				"json",
+				"jsonify"
+			],
+			[
+				"Birthday",
+				"BirthdayList"
+			],
+			[
+				"Up",
+				"UpcomingBdays"
+			],
+			[
+				"all",
+				"allDatesDf"
+			],
+			[
+				"All",
+				"allDatesDf"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sairaman/Documents/Projects/bitTorrent/2013-07-28-Black Crowes-Bridgeport, CT FLAC.torrent",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/templates/home.html",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/templates/layout.html",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/static/main_new.css",
+		"/Users/sairaman/Documents/Projects/RandomLeetishProbs/anagram.py",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/templates/birthdaylist_new.html",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/templates/register.html",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/templates/login.html",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/templates/about.html",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/templates/birthdaylist.html",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/templates/reset_request.html",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/templates/reset_token.html",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/models.py",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/routes.py",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/static/main.css",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/forms.py",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/__init__.py",
+		"/Users/sairaman/Documents/Projects/WebSaite/run.py",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/templates/record.html",
+		"/Users/sairaman/Documents/Projects/WebSaite/websaite/templates/account.html",
+		"/Users/sairaman/Documents/Projects/Sai_Website/saiwebsite/models.py",
+		"/Users/sairaman/Documents/Projects/Sai_Website/website.py",
+		"/Users/sairaman/Documents/Projects/Sai_Website/templates/register.html",
+		"/Users/sairaman/Documents/Projects/Sai_Website/templates/login.html",
+		"/Users/sairaman/Documents/Projects/Sai_Website/templates/layout.html",
+		"/Users/sairaman/Documents/Projects/Sai_Website/templates/home.html",
+		"/Users/sairaman/Documents/Projects/Sai_Website/saiwebsite/templates/about.html",
+		"/Users/sairaman/Documents/Projects/Sai_Website/saiwebsite/static/main_old.css",
+		"/Users/sairaman/Documents/Projects/Sai_Website/saiwebsite/__init__.py",
+		"/Users/sairaman/Documents/Projects/BirthdayReminder/TestScript.sh",
+		"/Users/sairaman/Documents/GitHub/BirthdayReminder/TestScript.sh",
+		"/Users/sairaman/Documents/RC/RC_Connections_Notes",
+		"/Users/sairaman/Documents/Projects/SR_website/templates/about.html",
+		"/Users/sairaman/Documents/Projects/SR_website/templates/home.html",
+		"/Users/sairaman/Documents/Projects/SR_website/templates/layout.html",
+		"/Users/sairaman/Documents/Projects/SR_website/forms.py",
+		"/Users/sairaman/Documents/Projects/SR_website/templates/login.html",
+		"/Users/sairaman/Documents/Projects/SR_website/templates/register.html",
+		"/Users/sairaman/Documents/Projects/SR_website/website.py",
+		"/Users/sairaman/Documents/Projects/Mastermind/game.py",
+		"/Users/sairaman/Documents/GitHub/BirthdayReminder/main.py",
+		"/Users/sairaman/Documents/Projects/BirthdayReminder/main.py",
+		"/Users/sairaman/Documents/Projects/SR_website/static/main.css",
+		"/Users/sairaman/Downloads/bootstrap.css",
+		"/Users/sairaman/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/sairaman/.bashrc",
+		"/Users/sairaman/Documents/GitHub/BirthdayReminder/test2.py",
+		"/Users/sairaman/Documents/GitHub/BirthdayReminder/redisConnection.py",
+		"/Users/sairaman/Documents/GitHub/BirthdayReminder/test.py",
+		"/Users/sairaman/Documents/GitHub/FlaskApp/main.py",
+		"/Users/sairaman/Documents/Resume/SaiRamanApplication.txt",
+		"/Users/sairaman/anaconda3/pkgs/scikit-learn-0.19.1-py36hffbff8c_0/lib/python3.6/site-packages/sklearn/model_selection/__init__.py",
+		"/Users/sairaman/anaconda3/lib/python3.6/site-packages/conda/common/path.py",
+		"/Users/sairaman/saitech/hello_world/index.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 212.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "TorrentDecode.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

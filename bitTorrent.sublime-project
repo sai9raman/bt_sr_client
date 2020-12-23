@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"python_interpreter": "./bitvenv/bin/python3"
+	},
+	"virtualenv": "/Users/sairaman/Documents/Projects/bitTorrent/btvenv"
+}
